@@ -1,0 +1,8 @@
+{
+  "entry": [
+    "next.config.{js,ts,cjs,mjs}",
+    "pages/**/*.{js,jsx,ts,tsx}",
+    "*.{js,jsx,ts,tsx}"
+  ],
+  "project": ["{components,pages}/**/*.{tsx,ts,js,jsx}"]
+}
